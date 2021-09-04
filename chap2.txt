@@ -1,1 +1,1 @@
-An app that publishes news to the public and provides access to user to add news from any part of world by registering with the application
+An application that publishes news to the public and provides access to user to add news from any part of world by registering with the application
